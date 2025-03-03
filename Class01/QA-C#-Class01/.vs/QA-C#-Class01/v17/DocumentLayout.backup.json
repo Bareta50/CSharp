@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QA C#\\QA-C#-Class01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BBB231-3A95-4C70-BD21-3A8CDDF56C2C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\qa c#\\qa-c#-class01\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BBB231-3A95-4C70-BD21-3A8CDDF56C2C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B21897A-1FA3-47C1-9861-2AF664EB2BBB}|QA-C#-Class01\\QA-C#-Class01.csproj|c:\\qa c#\\qa-c#-class01\\qa-c#-class01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B21897A-1FA3-47C1-9861-2AF664EB2BBB}|QA-C#-Class01\\QA-C#-Class01.csproj|solutionrelative:qa-c#-class01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA C#\\QA-C#-Class01\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\QA C#\\QA-C#-Class01\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:10:29.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA C#\\QA-C#-Class01\\QA-C#-Class01\\Program.cs",
+              "RelativeDocumentMoniker": "QA-C#-Class01\\Program.cs",
+              "ToolTip": "C:\\QA C#\\QA-C#-Class01\\QA-C#-Class01\\Program.cs",
+              "RelativeToolTip": "QA-C#-Class01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:02:53.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

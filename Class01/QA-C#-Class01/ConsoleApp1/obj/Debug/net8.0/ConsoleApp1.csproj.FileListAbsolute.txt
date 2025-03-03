@@ -1,0 +1,14 @@
+C:\QA C#\QA-C#-Class01\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\QA C#\QA-C#-Class01\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\QA C#\QA-C#-Class01\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\QA C#\QA-C#-Class01\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\QA C#\QA-C#-Class01\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\QA C#\QA-C#-Class01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\QA-C#-Class01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\QA C#\QA-C#-Class01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\QA C#\QA-C#-Class01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\QA C#\QA-C#-Class01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\QA C#\QA-C#-Class01\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\QA C#\QA-C#-Class01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\QA C#\QA-C#-Class01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\QA C#\QA-C#-Class01\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
