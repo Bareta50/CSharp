@@ -1,0 +1,14 @@
+C:\QA C#\HomeworkC#\Class03-PT-2\bin\Debug\net8.0\Class03-PT-2.exe
+C:\QA C#\HomeworkC#\Class03-PT-2\bin\Debug\net8.0\Class03-PT-2.deps.json
+C:\QA C#\HomeworkC#\Class03-PT-2\bin\Debug\net8.0\Class03-PT-2.runtimeconfig.json
+C:\QA C#\HomeworkC#\Class03-PT-2\bin\Debug\net8.0\Class03-PT-2.dll
+C:\QA C#\HomeworkC#\Class03-PT-2\bin\Debug\net8.0\Class03-PT-2.pdb
+C:\QA C#\HomeworkC#\Class03-PT-2\obj\Debug\net8.0\Class03-PT-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\HomeworkC#\Class03-PT-2\obj\Debug\net8.0\Class03-PT-2.AssemblyInfoInputs.cache
+C:\QA C#\HomeworkC#\Class03-PT-2\obj\Debug\net8.0\Class03-PT-2.AssemblyInfo.cs
+C:\QA C#\HomeworkC#\Class03-PT-2\obj\Debug\net8.0\Class03-PT-2.csproj.CoreCompileInputs.cache
+C:\QA C#\HomeworkC#\Class03-PT-2\obj\Debug\net8.0\Class03-PT-2.dll
+C:\QA C#\HomeworkC#\Class03-PT-2\obj\Debug\net8.0\refint\Class03-PT-2.dll
+C:\QA C#\HomeworkC#\Class03-PT-2\obj\Debug\net8.0\Class03-PT-2.pdb
+C:\QA C#\HomeworkC#\Class03-PT-2\obj\Debug\net8.0\Class03-PT-2.genruntimeconfig.cache
+C:\QA C#\HomeworkC#\Class03-PT-2\obj\Debug\net8.0\ref\Class03-PT-2.dll

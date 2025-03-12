@@ -1,0 +1,4 @@
+C:\QA C#\HomeworkC#\Class04\obj\Debug\net8.0\Class04.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\HomeworkC#\Class04\obj\Debug\net8.0\Class04.AssemblyInfoInputs.cache
+C:\QA C#\HomeworkC#\Class04\obj\Debug\net8.0\Class04.AssemblyInfo.cs
+C:\QA C#\HomeworkC#\Class04\obj\Debug\net8.0\Class04.csproj.CoreCompileInputs.cache

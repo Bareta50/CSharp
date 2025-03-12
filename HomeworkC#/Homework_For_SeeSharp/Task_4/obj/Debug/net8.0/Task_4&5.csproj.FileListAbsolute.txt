@@ -1,0 +1,14 @@
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\bin\Debug\net8.0\Task_4&5.exe
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\bin\Debug\net8.0\Task_4&5.deps.json
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\bin\Debug\net8.0\Task_4&5.runtimeconfig.json
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\bin\Debug\net8.0\Task_4&5.dll
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\bin\Debug\net8.0\Task_4&5.pdb
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\obj\Debug\net8.0\Task_4&5.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\obj\Debug\net8.0\Task_4&5.AssemblyInfoInputs.cache
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\obj\Debug\net8.0\Task_4&5.AssemblyInfo.cs
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\obj\Debug\net8.0\Task_4&5.csproj.CoreCompileInputs.cache
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\obj\Debug\net8.0\Task_4&5.dll
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\obj\Debug\net8.0\refint\Task_4&5.dll
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\obj\Debug\net8.0\Task_4&5.pdb
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\obj\Debug\net8.0\Task_4&5.genruntimeconfig.cache
+C:\QA C#\HomeworkC#\Homework_For_SeeSharp\Task_4\obj\Debug\net8.0\ref\Task_4&5.dll
