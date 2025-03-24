@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QA C#\\CSharp\\HomeworkC#\\Required Homework Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E917AAD3-BD8F-4F36-919B-B99606AB41CA}|Car.Methgods\\Car.Methgods.csproj|c:\\qa c#\\csharp\\homeworkc#\\required homework assignment\\car.methgods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E917AAD3-BD8F-4F36-919B-B99606AB41CA}|Car.Methgods\\Car.Methgods.csproj|solutionrelative:car.methgods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E917AAD3-BD8F-4F36-919B-B99606AB41CA}|Car.Methgods\\Car.Methgods.csproj|c:\\qa c#\\csharp\\homeworkc#\\required homework assignment\\car.methgods\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E917AAD3-BD8F-4F36-919B-B99606AB41CA}|Car.Methgods\\Car.Methgods.csproj|solutionrelative:car.methgods\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E917AAD3-BD8F-4F36-919B-B99606AB41CA}|Car.Methgods\\Car.Methgods.csproj|c:\\qa c#\\csharp\\homeworkc#\\required homework assignment\\car.methgods\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E917AAD3-BD8F-4F36-919B-B99606AB41CA}|Car.Methgods\\Car.Methgods.csproj|solutionrelative:car.methgods\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FF726B-7766-48B8-825F-3E8F430635FD}|Birthday.App\\Birthday.App.csproj|c:\\qa c#\\csharp\\homeworkc#\\required homework assignment\\birthday.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FF726B-7766-48B8-825F-3E8F430635FD}|Birthday.App\\Birthday.App.csproj|solutionrelative:birthday.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\HomeworkC#\\Required Homework Assignment\\Car.Methgods\\Driver.cs",
+              "RelativeDocumentMoniker": "Car.Methgods\\Driver.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\HomeworkC#\\Required Homework Assignment\\Car.Methgods\\Driver.cs",
+              "RelativeToolTip": "Car.Methgods\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:41:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\HomeworkC#\\Required Homework Assignment\\Car.Methgods\\Car.cs",
+              "RelativeDocumentMoniker": "Car.Methgods\\Car.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\HomeworkC#\\Required Homework Assignment\\Car.Methgods\\Car.cs",
+              "RelativeToolTip": "Car.Methgods\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:41:24.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\HomeworkC#\\Required Homework Assignment\\Car.Methgods\\Program.cs",
+              "RelativeDocumentMoniker": "Car.Methgods\\Program.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\HomeworkC#\\Required Homework Assignment\\Car.Methgods\\Program.cs",
+              "RelativeToolTip": "Car.Methgods\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T13:41:03.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\HomeworkC#\\Required Homework Assignment\\Birthday.App\\Program.cs",
+              "RelativeDocumentMoniker": "Birthday.App\\Program.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\HomeworkC#\\Required Homework Assignment\\Birthday.App\\Program.cs",
+              "RelativeToolTip": "Birthday.App\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:47:18.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

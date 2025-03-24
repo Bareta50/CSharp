@@ -1,0 +1,5 @@
+C:\QA C#\CSharp\ExerciseClass09_RentalApp\MovieRentingApp.UI\obj\Debug\net8.0\MovieRentingApp.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp\ExerciseClass09_RentalApp\MovieRentingApp.UI\obj\Debug\net8.0\MovieRentingApp.UI.AssemblyInfoInputs.cache
+C:\QA C#\CSharp\ExerciseClass09_RentalApp\MovieRentingApp.UI\obj\Debug\net8.0\MovieRentingApp.UI.AssemblyInfo.cs
+C:\QA C#\CSharp\ExerciseClass09_RentalApp\MovieRentingApp.UI\obj\Debug\net8.0\MovieRentingApp.UI.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp\ExerciseClass09_RentalApp\MovieRentingApp.UI\obj\Debug\net8.0\MovieRentingApp.UI.sourcelink.json

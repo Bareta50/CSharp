@@ -1,0 +1,15 @@
+C:\QA C#\CSharp\Class08\Class08\bin\Debug\net8.0\Class08.exe
+C:\QA C#\CSharp\Class08\Class08\bin\Debug\net8.0\Class08.deps.json
+C:\QA C#\CSharp\Class08\Class08\bin\Debug\net8.0\Class08.runtimeconfig.json
+C:\QA C#\CSharp\Class08\Class08\bin\Debug\net8.0\Class08.dll
+C:\QA C#\CSharp\Class08\Class08\bin\Debug\net8.0\Class08.pdb
+C:\QA C#\CSharp\Class08\Class08\obj\Debug\net8.0\Class08.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp\Class08\Class08\obj\Debug\net8.0\Class08.AssemblyInfoInputs.cache
+C:\QA C#\CSharp\Class08\Class08\obj\Debug\net8.0\Class08.AssemblyInfo.cs
+C:\QA C#\CSharp\Class08\Class08\obj\Debug\net8.0\Class08.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp\Class08\Class08\obj\Debug\net8.0\Class08.sourcelink.json
+C:\QA C#\CSharp\Class08\Class08\obj\Debug\net8.0\Class08.dll
+C:\QA C#\CSharp\Class08\Class08\obj\Debug\net8.0\refint\Class08.dll
+C:\QA C#\CSharp\Class08\Class08\obj\Debug\net8.0\Class08.pdb
+C:\QA C#\CSharp\Class08\Class08\obj\Debug\net8.0\Class08.genruntimeconfig.cache
+C:\QA C#\CSharp\Class08\Class08\obj\Debug\net8.0\ref\Class08.dll

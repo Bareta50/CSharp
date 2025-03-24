@@ -1,0 +1,15 @@
+C:\QA C#\CSharp\Class09\bin\Debug\net8.0\A_ConsoleApp_UI.exe
+C:\QA C#\CSharp\Class09\bin\Debug\net8.0\A_ConsoleApp_UI.deps.json
+C:\QA C#\CSharp\Class09\bin\Debug\net8.0\A_ConsoleApp_UI.runtimeconfig.json
+C:\QA C#\CSharp\Class09\bin\Debug\net8.0\A_ConsoleApp_UI.dll
+C:\QA C#\CSharp\Class09\bin\Debug\net8.0\A_ConsoleApp_UI.pdb
+C:\QA C#\CSharp\Class09\obj\Debug\net8.0\A_ConsoleApp_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp\Class09\obj\Debug\net8.0\A_ConsoleApp_UI.AssemblyInfoInputs.cache
+C:\QA C#\CSharp\Class09\obj\Debug\net8.0\A_ConsoleApp_UI.AssemblyInfo.cs
+C:\QA C#\CSharp\Class09\obj\Debug\net8.0\A_ConsoleApp_UI.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp\Class09\obj\Debug\net8.0\A_ConsoleApp_UI.sourcelink.json
+C:\QA C#\CSharp\Class09\obj\Debug\net8.0\A_ConsoleApp_UI.dll
+C:\QA C#\CSharp\Class09\obj\Debug\net8.0\refint\A_ConsoleApp_UI.dll
+C:\QA C#\CSharp\Class09\obj\Debug\net8.0\A_ConsoleApp_UI.pdb
+C:\QA C#\CSharp\Class09\obj\Debug\net8.0\A_ConsoleApp_UI.genruntimeconfig.cache
+C:\QA C#\CSharp\Class09\obj\Debug\net8.0\ref\A_ConsoleApp_UI.dll

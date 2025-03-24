@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class08", "Class08.csproj", "{D72A3A9C-37BA-422A-9FAC-CFE4F56CB8DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise_1", "..\Exercise_1\Exercise_1.csproj", "{234BAFE3-61D3-4E87-B271-0018AF087FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "..\LINQ\LINQ.csproj", "{867366DE-69F4-4779-82BA-867BD73485FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D72A3A9C-37BA-422A-9FAC-CFE4F56CB8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72A3A9C-37BA-422A-9FAC-CFE4F56CB8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72A3A9C-37BA-422A-9FAC-CFE4F56CB8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72A3A9C-37BA-422A-9FAC-CFE4F56CB8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234BAFE3-61D3-4E87-B271-0018AF087FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234BAFE3-61D3-4E87-B271-0018AF087FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234BAFE3-61D3-4E87-B271-0018AF087FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234BAFE3-61D3-4E87-B271-0018AF087FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867366DE-69F4-4779-82BA-867BD73485FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867366DE-69F4-4779-82BA-867BD73485FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867366DE-69F4-4779-82BA-867BD73485FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867366DE-69F4-4779-82BA-867BD73485FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7980A7C9-59E9-4F35-974E-DCEE73D5CB4C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QA C#\\CSharp\\Class06\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F123D6D-498D-4036-BBB2-3C4ABD47E1CA}|..\\Student_Exercise(3)\\Student_Exercise(3).csproj|c:\\qa c#\\csharp\\class06\\student_exercise(3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F123D6D-498D-4036-BBB2-3C4ABD47E1CA}|..\\Student_Exercise(3)\\Student_Exercise(3).csproj|c:\\qa c#\\csharp\\class06\\student_exercise(3)\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F581E1F-1CC9-495B-A064-BA776D21B671}|..\\Dog Exercise\\Dog Exercise.csproj|c:\\qa c#\\csharp\\class06\\dog exercise\\glavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F581E1F-1CC9-495B-A064-BA776D21B671}|..\\Dog Exercise\\Dog Exercise.csproj|c:\\qa c#\\csharp\\class06\\dog exercise\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Student_Exercise(3)\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Student_Exercise(3)\\Student.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Student_Exercise(3)\\Student.cs",
+              "RelativeToolTip": "..\\Student_Exercise(3)\\Student.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:25:40.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Student_Exercise(3)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Student_Exercise(3)\\Program.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Student_Exercise(3)\\Program.cs",
+              "RelativeToolTip": "..\\Student_Exercise(3)\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:22:58.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Dog Exercise\\Dog.cs",
+              "RelativeDocumentMoniker": "..\\Dog Exercise\\Dog.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Dog Exercise\\Dog.cs",
+              "RelativeToolTip": "..\\Dog Exercise\\Dog.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:05:40.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Glavna.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Dog Exercise\\Glavna.cs",
+              "RelativeDocumentMoniker": "..\\Dog Exercise\\Glavna.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Dog Exercise\\Glavna.cs",
+              "RelativeToolTip": "..\\Dog Exercise\\Glavna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:04:16.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\QA C#\CSharp\Class07\Part2\obj\Debug\net8.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp\Class07\Part2\obj\Debug\net8.0\Part2.AssemblyInfoInputs.cache
+C:\QA C#\CSharp\Class07\Part2\obj\Debug\net8.0\Part2.AssemblyInfo.cs
+C:\QA C#\CSharp\Class07\Part2\obj\Debug\net8.0\Part2.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp\Class07\Part2\obj\Debug\net8.0\Part2.sourcelink.json
+C:\QA C#\CSharp\Class07\Part2\bin\Debug\net8.0\Part2.exe
+C:\QA C#\CSharp\Class07\Part2\bin\Debug\net8.0\Part2.deps.json
+C:\QA C#\CSharp\Class07\Part2\bin\Debug\net8.0\Part2.runtimeconfig.json
+C:\QA C#\CSharp\Class07\Part2\bin\Debug\net8.0\Part2.dll
+C:\QA C#\CSharp\Class07\Part2\bin\Debug\net8.0\Part2.pdb
+C:\QA C#\CSharp\Class07\Part2\obj\Debug\net8.0\Part2.dll
+C:\QA C#\CSharp\Class07\Part2\obj\Debug\net8.0\refint\Part2.dll
+C:\QA C#\CSharp\Class07\Part2\obj\Debug\net8.0\Part2.pdb
+C:\QA C#\CSharp\Class07\Part2\obj\Debug\net8.0\Part2.genruntimeconfig.cache
+C:\QA C#\CSharp\Class07\Part2\obj\Debug\net8.0\ref\Part2.dll

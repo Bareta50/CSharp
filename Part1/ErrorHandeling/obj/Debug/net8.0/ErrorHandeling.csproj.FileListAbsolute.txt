@@ -1,0 +1,15 @@
+C:\QA C#\CSharp\Part1\ErrorHandeling\bin\Debug\net8.0\ErrorHandeling.exe
+C:\QA C#\CSharp\Part1\ErrorHandeling\bin\Debug\net8.0\ErrorHandeling.deps.json
+C:\QA C#\CSharp\Part1\ErrorHandeling\bin\Debug\net8.0\ErrorHandeling.runtimeconfig.json
+C:\QA C#\CSharp\Part1\ErrorHandeling\bin\Debug\net8.0\ErrorHandeling.dll
+C:\QA C#\CSharp\Part1\ErrorHandeling\bin\Debug\net8.0\ErrorHandeling.pdb
+C:\QA C#\CSharp\Part1\ErrorHandeling\obj\Debug\net8.0\ErrorHandeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp\Part1\ErrorHandeling\obj\Debug\net8.0\ErrorHandeling.AssemblyInfoInputs.cache
+C:\QA C#\CSharp\Part1\ErrorHandeling\obj\Debug\net8.0\ErrorHandeling.AssemblyInfo.cs
+C:\QA C#\CSharp\Part1\ErrorHandeling\obj\Debug\net8.0\ErrorHandeling.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp\Part1\ErrorHandeling\obj\Debug\net8.0\ErrorHandeling.sourcelink.json
+C:\QA C#\CSharp\Part1\ErrorHandeling\obj\Debug\net8.0\ErrorHandeling.dll
+C:\QA C#\CSharp\Part1\ErrorHandeling\obj\Debug\net8.0\refint\ErrorHandeling.dll
+C:\QA C#\CSharp\Part1\ErrorHandeling\obj\Debug\net8.0\ErrorHandeling.pdb
+C:\QA C#\CSharp\Part1\ErrorHandeling\obj\Debug\net8.0\ErrorHandeling.genruntimeconfig.cache
+C:\QA C#\CSharp\Part1\ErrorHandeling\obj\Debug\net8.0\ref\ErrorHandeling.dll

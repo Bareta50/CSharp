@@ -1,0 +1,15 @@
+C:\QA C#\CSharp\Movie.RentalApp\bin\Debug\net8.0\Movie.RentalApp.exe
+C:\QA C#\CSharp\Movie.RentalApp\bin\Debug\net8.0\Movie.RentalApp.deps.json
+C:\QA C#\CSharp\Movie.RentalApp\bin\Debug\net8.0\Movie.RentalApp.runtimeconfig.json
+C:\QA C#\CSharp\Movie.RentalApp\bin\Debug\net8.0\Movie.RentalApp.dll
+C:\QA C#\CSharp\Movie.RentalApp\bin\Debug\net8.0\Movie.RentalApp.pdb
+C:\QA C#\CSharp\Movie.RentalApp\obj\Debug\net8.0\Movie.RentalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp\Movie.RentalApp\obj\Debug\net8.0\Movie.RentalApp.AssemblyInfoInputs.cache
+C:\QA C#\CSharp\Movie.RentalApp\obj\Debug\net8.0\Movie.RentalApp.AssemblyInfo.cs
+C:\QA C#\CSharp\Movie.RentalApp\obj\Debug\net8.0\Movie.RentalApp.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp\Movie.RentalApp\obj\Debug\net8.0\Movie.RentalApp.sourcelink.json
+C:\QA C#\CSharp\Movie.RentalApp\obj\Debug\net8.0\Movie.RentalApp.dll
+C:\QA C#\CSharp\Movie.RentalApp\obj\Debug\net8.0\refint\Movie.RentalApp.dll
+C:\QA C#\CSharp\Movie.RentalApp\obj\Debug\net8.0\Movie.RentalApp.pdb
+C:\QA C#\CSharp\Movie.RentalApp\obj\Debug\net8.0\Movie.RentalApp.genruntimeconfig.cache
+C:\QA C#\CSharp\Movie.RentalApp\obj\Debug\net8.0\ref\Movie.RentalApp.dll

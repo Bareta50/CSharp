@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QA C#\\CSharp\\Class06\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA7E7A5-F320-49F5-A189-6D91D0E1D5CA}|..\\Exercise_6_task_2\\Exercise_6_task_2.csproj|c:\\qa c#\\csharp\\class06\\exercise_6_task_2\\glavno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA7E7A5-F320-49F5-A189-6D91D0E1D5CA}|..\\Exercise_6_task_2\\Exercise_6_task_2.csproj|c:\\qa c#\\csharp\\class06\\exercise_6_task_2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA7E7A5-F320-49F5-A189-6D91D0E1D5CA}|..\\Exercise_6_task_2\\Exercise_6_task_2.csproj|c:\\qa c#\\csharp\\class06\\exercise_6_task_2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D15C40-8C89-4340-8061-7AC6AC828615}|..\\Exercise_6\\Exercise_6.csproj|c:\\qa c#\\csharp\\class06\\exercise_6\\aboutnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D15C40-8C89-4340-8061-7AC6AC828615}|..\\Exercise_6\\Exercise_6.csproj|c:\\qa c#\\csharp\\class06\\exercise_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F123D6D-498D-4036-BBB2-3C4ABD47E1CA}|..\\Student_Exercise(3)\\Student_Exercise(3).csproj|c:\\qa c#\\csharp\\class06\\student_exercise(3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F123D6D-498D-4036-BBB2-3C4ABD47E1CA}|..\\Student_Exercise(3)\\Student_Exercise(3).csproj|c:\\qa c#\\csharp\\class06\\student_exercise(3)\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F581E1F-1CC9-495B-A064-BA776D21B671}|..\\Dog Exercise\\Dog Exercise.csproj|c:\\qa c#\\csharp\\class06\\dog exercise\\glavna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F581E1F-1CC9-495B-A064-BA776D21B671}|..\\Dog Exercise\\Dog Exercise.csproj|c:\\qa c#\\csharp\\class06\\dog exercise\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Glavno.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Exercise_6_task_2\\Glavno.cs",
+              "RelativeDocumentMoniker": "..\\Exercise_6_task_2\\Glavno.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Exercise_6_task_2\\Glavno.cs",
+              "RelativeToolTip": "..\\Exercise_6_task_2\\Glavno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:00:30.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Exercise_6_task_2\\Register.cs",
+              "RelativeDocumentMoniker": "..\\Exercise_6_task_2\\Register.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Exercise_6_task_2\\Register.cs",
+              "RelativeToolTip": "..\\Exercise_6_task_2\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:00:30.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Exercise_6_task_2\\Login.cs",
+              "RelativeDocumentMoniker": "..\\Exercise_6_task_2\\Login.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Exercise_6_task_2\\Login.cs",
+              "RelativeToolTip": "..\\Exercise_6_task_2\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:00:30.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutNumber.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Exercise_6\\AboutNumber.cs",
+              "RelativeDocumentMoniker": "..\\Exercise_6\\AboutNumber.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Exercise_6\\AboutNumber.cs",
+              "RelativeToolTip": "..\\Exercise_6\\AboutNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:00:30.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Exercise_6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercise_6\\Program.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Exercise_6\\Program.cs",
+              "RelativeToolTip": "..\\Exercise_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:00:29.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Student_Exercise(3)\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Student_Exercise(3)\\Student.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Student_Exercise(3)\\Student.cs",
+              "RelativeToolTip": "..\\Student_Exercise(3)\\Student.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:25:40.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Student_Exercise(3)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Student_Exercise(3)\\Program.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Student_Exercise(3)\\Program.cs",
+              "RelativeToolTip": "..\\Student_Exercise(3)\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:22:58.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Dog Exercise\\Dog.cs",
+              "RelativeDocumentMoniker": "..\\Dog Exercise\\Dog.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Dog Exercise\\Dog.cs",
+              "RelativeToolTip": "..\\Dog Exercise\\Dog.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:05:40.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Glavna.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class06\\Dog Exercise\\Glavna.cs",
+              "RelativeDocumentMoniker": "..\\Dog Exercise\\Glavna.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class06\\Dog Exercise\\Glavna.cs",
+              "RelativeToolTip": "..\\Dog Exercise\\Glavna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:04:16.319Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

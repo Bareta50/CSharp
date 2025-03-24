@@ -1,0 +1,15 @@
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\bin\Debug\net8.0\Exercises.exe
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\bin\Debug\net8.0\Exercises.deps.json
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\bin\Debug\net8.0\Exercises.runtimeconfig.json
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\bin\Debug\net8.0\Exercises.dll
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\bin\Debug\net8.0\Exercises.pdb
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\obj\Debug\net8.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\obj\Debug\net8.0\Exercises.AssemblyInfoInputs.cache
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\obj\Debug\net8.0\Exercises.AssemblyInfo.cs
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\obj\Debug\net8.0\Exercises.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\obj\Debug\net8.0\Exercises.sourcelink.json
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\obj\Debug\net8.0\Exercises.dll
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\obj\Debug\net8.0\refint\Exercises.dll
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\obj\Debug\net8.0\Exercises.pdb
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\obj\Debug\net8.0\Exercises.genruntimeconfig.cache
+C:\QA C#\CSharp\MovieExeptionExercise\Exercises\obj\Debug\net8.0\ref\Exercises.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\QA C#\\HomeworkC#\\Homework_For_SeeSharp\\Task_3\\Task_3.csproj",
+      "projectUniqueName": "C:\\QA C#\\CSharp\\HomeworkC#\\Homework_For_SeeSharp\\Task_3\\Task_3.csproj",
       "projectName": "Task_3",
-      "projectPath": "C:\\QA C#\\HomeworkC#\\Homework_For_SeeSharp\\Task_3\\Task_3.csproj",
+      "projectPath": "C:\\QA C#\\CSharp\\HomeworkC#\\Homework_For_SeeSharp\\Task_3\\Task_3.csproj",
       "packagesPath": "C:\\Users\\baret\\.nuget\\packages\\",
-      "outputPath": "C:\\QA C#\\HomeworkC#\\Homework_For_SeeSharp\\Task_3\\obj\\",
+      "outputPath": "C:\\QA C#\\CSharp\\HomeworkC#\\Homework_For_SeeSharp\\Task_3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

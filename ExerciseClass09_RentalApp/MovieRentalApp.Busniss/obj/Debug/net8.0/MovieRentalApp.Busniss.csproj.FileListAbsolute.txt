@@ -1,0 +1,5 @@
+C:\QA C#\CSharp\ExerciseClass09_RentalApp\MovieRentalApp.Busniss\obj\Debug\net8.0\MovieRentalApp.Busniss.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp\ExerciseClass09_RentalApp\MovieRentalApp.Busniss\obj\Debug\net8.0\MovieRentalApp.Busniss.AssemblyInfoInputs.cache
+C:\QA C#\CSharp\ExerciseClass09_RentalApp\MovieRentalApp.Busniss\obj\Debug\net8.0\MovieRentalApp.Busniss.AssemblyInfo.cs
+C:\QA C#\CSharp\ExerciseClass09_RentalApp\MovieRentalApp.Busniss\obj\Debug\net8.0\MovieRentalApp.Busniss.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp\ExerciseClass09_RentalApp\MovieRentalApp.Busniss\obj\Debug\net8.0\MovieRentalApp.Busniss.sourcelink.json

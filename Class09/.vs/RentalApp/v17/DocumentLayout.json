@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QA C#\\CSharp\\Class09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55722A1C-5CF2-4482-A3E7-27FAE169FF1B}|..\\RentalApp.App\\RentalApp.Data.csproj|c:\\qa c#\\csharp\\rentalapp.app\\database\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55722A1C-5CF2-4482-A3E7-27FAE169FF1B}|..\\RentalApp.App\\RentalApp.Data.csproj|c:\\qa c#\\csharp\\rentalapp.app\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55722A1C-5CF2-4482-A3E7-27FAE169FF1B}|..\\RentalApp.App\\RentalApp.Data.csproj|c:\\qa c#\\csharp\\rentalapp.app\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55722A1C-5CF2-4482-A3E7-27FAE169FF1B}|..\\RentalApp.App\\RentalApp.Data.csproj|c:\\qa c#\\csharp\\rentalapp.app\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55722A1C-5CF2-4482-A3E7-27FAE169FF1B}|..\\RentalApp.App\\RentalApp.Data.csproj|c:\\qa c#\\csharp\\rentalapp.app\\models\\baseent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB24090-14CA-4B01-9D38-5C50E15ADB14}|A_ConsoleApp_UI.csproj|c:\\qa c#\\csharp\\class09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB24090-14CA-4B01-9D38-5C50E15ADB14}|A_ConsoleApp_UI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB24090-14CA-4B01-9D38-5C50E15ADB14}|A_ConsoleApp_UI.csproj|c:\\qa c#\\csharp\\class09\\a_consoleapp_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAB24090-14CA-4B01-9D38-5C50E15ADB14}|A_ConsoleApp_UI.csproj|solutionrelative:a_consoleapp_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55722A1C-5CF2-4482-A3E7-27FAE169FF1B}|..\\RentalApp.App\\RentalApp.Data.csproj|c:\\qa c#\\csharp\\rentalapp.app\\rentalapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C85B41-B760-4E4E-8C74-095FC2EEBAC1}|..\\business_logic_ClassLibrary\\RentalApp.Busniss.csproj|c:\\qa c#\\csharp\\business_logic_classlibrary\\rentalapp.busniss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\QA C#\\CSharp\\Class09\\RuntimeTextTemplate1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RuntimeTextTemplate1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\RentalApp.App\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "..\\RentalApp.App\\Models\\Movie.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\RentalApp.App\\Models\\Movie.cs",
+              "RelativeToolTip": "..\\RentalApp.App\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:01:07.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\RentalApp.App\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\RentalApp.App\\Models\\User.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\RentalApp.App\\Models\\User.cs",
+              "RelativeToolTip": "..\\RentalApp.App\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:00:58.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\RentalApp.App\\Enums\\Genre.cs",
+              "RelativeDocumentMoniker": "..\\RentalApp.App\\Enums\\Genre.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\RentalApp.App\\Enums\\Genre.cs",
+              "RelativeToolTip": "..\\RentalApp.App\\Enums\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:12:08.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemoryDataBase.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\RentalApp.App\\DataBase\\InMemoryDataBase.cs",
+              "RelativeDocumentMoniker": "..\\RentalApp.App\\DataBase\\InMemoryDataBase.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\RentalApp.App\\DataBase\\InMemoryDataBase.cs",
+              "RelativeToolTip": "..\\RentalApp.App\\DataBase\\InMemoryDataBase.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:18:15.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEnt.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\RentalApp.App\\Models\\BaseEnt.cs",
+              "RelativeDocumentMoniker": "..\\RentalApp.App\\Models\\BaseEnt.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\RentalApp.App\\Models\\BaseEnt.cs",
+              "RelativeToolTip": "..\\RentalApp.App\\Models\\BaseEnt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:02:26.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class09\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class09\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:32:25.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RentalApp.Data.csproj",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\RentalApp.App\\RentalApp.Data.csproj",
+              "RelativeDocumentMoniker": "..\\RentalApp.App\\RentalApp.Data.csproj",
+              "ToolTip": "C:\\QA C#\\CSharp\\RentalApp.App\\RentalApp.Data.csproj",
+              "RelativeToolTip": "..\\RentalApp.App\\RentalApp.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T16:59:32.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "A_ConsoleApp_UI.csproj",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class09\\A_ConsoleApp_UI.csproj",
+              "RelativeDocumentMoniker": "A_ConsoleApp_UI.csproj",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class09\\A_ConsoleApp_UI.csproj",
+              "RelativeToolTip": "A_ConsoleApp_UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T16:35:21.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RentalApp.Busniss.csproj",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\business_logic_ClassLibrary\\RentalApp.Busniss.csproj",
+              "RelativeDocumentMoniker": "..\\business_logic_ClassLibrary\\RentalApp.Busniss.csproj",
+              "ToolTip": "C:\\QA C#\\CSharp\\business_logic_ClassLibrary\\RentalApp.Busniss.csproj",
+              "RelativeToolTip": "..\\business_logic_ClassLibrary\\RentalApp.Busniss.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T16:43:46.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RuntimeTextTemplate1.tt",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Class09\\RuntimeTextTemplate1.tt",
+              "RelativeDocumentMoniker": "RuntimeTextTemplate1.tt",
+              "ToolTip": "C:\\QA C#\\CSharp\\Class09\\RuntimeTextTemplate1.tt",
+              "RelativeToolTip": "RuntimeTextTemplate1.tt",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-21T16:35:46.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

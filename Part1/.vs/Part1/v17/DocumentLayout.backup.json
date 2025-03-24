@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QA C#\\CSharp\\Part1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD1107E-F569-45FD-969D-9D7C713153D9}|ErrorHandle\\ErrorHandle.csproj|c:\\qa c#\\csharp\\part1\\errorhandle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD1107E-F569-45FD-969D-9D7C713153D9}|ErrorHandle\\ErrorHandle.csproj|solutionrelative:errorhandle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD1107E-F569-45FD-969D-9D7C713153D9}|ErrorHandle\\ErrorHandle.csproj|c:\\qa c#\\csharp\\part1\\errorhandle\\ourcoustumexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD1107E-F569-45FD-969D-9D7C713153D9}|ErrorHandle\\ErrorHandle.csproj|solutionrelative:errorhandle\\ourcoustumexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OurCoustumExeption.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Part1\\ErrorHandle\\OurCoustumExeption.cs",
+              "RelativeDocumentMoniker": "ErrorHandle\\OurCoustumExeption.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Part1\\ErrorHandle\\OurCoustumExeption.cs",
+              "RelativeToolTip": "ErrorHandle\\OurCoustumExeption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:08:27.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\Part1\\ErrorHandle\\Program.cs",
+              "RelativeDocumentMoniker": "ErrorHandle\\Program.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\Part1\\ErrorHandle\\Program.cs*",
+              "RelativeToolTip": "ErrorHandle\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:20:06.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

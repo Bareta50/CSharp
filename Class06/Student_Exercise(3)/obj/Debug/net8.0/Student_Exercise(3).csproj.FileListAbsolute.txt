@@ -1,0 +1,15 @@
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\bin\Debug\net8.0\Student_Exercise(3).exe
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\bin\Debug\net8.0\Student_Exercise(3).deps.json
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\bin\Debug\net8.0\Student_Exercise(3).runtimeconfig.json
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\bin\Debug\net8.0\Student_Exercise(3).dll
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\bin\Debug\net8.0\Student_Exercise(3).pdb
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\obj\Debug\net8.0\Student_Exercise(3).GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\obj\Debug\net8.0\Student_Exercise(3).AssemblyInfoInputs.cache
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\obj\Debug\net8.0\Student_Exercise(3).AssemblyInfo.cs
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\obj\Debug\net8.0\Student_Exercise(3).csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\obj\Debug\net8.0\Student_Exercise(3).sourcelink.json
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\obj\Debug\net8.0\Student_Exercise(3).dll
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\obj\Debug\net8.0\refint\Student_Exercise(3).dll
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\obj\Debug\net8.0\Student_Exercise(3).pdb
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\obj\Debug\net8.0\Student_Exercise(3).genruntimeconfig.cache
+C:\QA C#\CSharp\Class06\Student_Exercise(3)\obj\Debug\net8.0\ref\Student_Exercise(3).dll

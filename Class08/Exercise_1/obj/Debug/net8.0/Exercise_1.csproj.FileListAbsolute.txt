@@ -1,0 +1,15 @@
+C:\QA C#\CSharp\Class08\Exercise_1\bin\Debug\net8.0\Exercise_1.exe
+C:\QA C#\CSharp\Class08\Exercise_1\bin\Debug\net8.0\Exercise_1.deps.json
+C:\QA C#\CSharp\Class08\Exercise_1\bin\Debug\net8.0\Exercise_1.runtimeconfig.json
+C:\QA C#\CSharp\Class08\Exercise_1\bin\Debug\net8.0\Exercise_1.dll
+C:\QA C#\CSharp\Class08\Exercise_1\bin\Debug\net8.0\Exercise_1.pdb
+C:\QA C#\CSharp\Class08\Exercise_1\obj\Debug\net8.0\Exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA C#\CSharp\Class08\Exercise_1\obj\Debug\net8.0\Exercise_1.AssemblyInfoInputs.cache
+C:\QA C#\CSharp\Class08\Exercise_1\obj\Debug\net8.0\Exercise_1.AssemblyInfo.cs
+C:\QA C#\CSharp\Class08\Exercise_1\obj\Debug\net8.0\Exercise_1.csproj.CoreCompileInputs.cache
+C:\QA C#\CSharp\Class08\Exercise_1\obj\Debug\net8.0\Exercise_1.sourcelink.json
+C:\QA C#\CSharp\Class08\Exercise_1\obj\Debug\net8.0\Exercise_1.dll
+C:\QA C#\CSharp\Class08\Exercise_1\obj\Debug\net8.0\refint\Exercise_1.dll
+C:\QA C#\CSharp\Class08\Exercise_1\obj\Debug\net8.0\Exercise_1.pdb
+C:\QA C#\CSharp\Class08\Exercise_1\obj\Debug\net8.0\Exercise_1.genruntimeconfig.cache
+C:\QA C#\CSharp\Class08\Exercise_1\obj\Debug\net8.0\ref\Exercise_1.dll
