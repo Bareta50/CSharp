@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QA C#\\CSharp\\HomeworkC#\\Required Homework Assignment\\BusinessHierarchy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D64C4D-3AA3-420E-8EF4-01ADAFAC9C0A}|BusinessHierarchy\\BusinessHierarchy.csproj|c:\\qa c#\\csharp\\homeworkc#\\required homework assignment\\businesshierarchy\\businesshierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D64C4D-3AA3-420E-8EF4-01ADAFAC9C0A}|BusinessHierarchy\\BusinessHierarchy.csproj|solutionrelative:businesshierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA C#\\CSharp\\HomeworkC#\\Required Homework Assignment\\BusinessHierarchy\\BusinessHierarchy\\Program.cs",
+              "RelativeDocumentMoniker": "BusinessHierarchy\\Program.cs",
+              "ToolTip": "C:\\QA C#\\CSharp\\HomeworkC#\\Required Homework Assignment\\BusinessHierarchy\\BusinessHierarchy\\Program.cs",
+              "RelativeToolTip": "BusinessHierarchy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:58:05.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
